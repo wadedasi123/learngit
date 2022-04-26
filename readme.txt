@@ -8,5 +8,5 @@ My stupid boss still prefers SVN.1
 My stupid boss still prefers SVN.2
 Creating a new branch is quick.
 999999999
-
+Creating a new branch is quick AND simple.
 
